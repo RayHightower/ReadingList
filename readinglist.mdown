@@ -7,13 +7,30 @@ Inspired by "Apprenticeship Patterns" by Dave Hoover and Ade Oshineye
 Priority Queue
 ==
 
-|Target Date|Title|Author(s)|
-||The Rails 3 Way|Fernandez|
-
+<table>
+	<tr>
+		<td>Target Date</td>
+		<td>Title</td>
+		<td>Author(s)</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>The Rails 3 Way</td>
+		<td>Fernandez</td>
+</table>
 
 Completed
 ==
 
-|Date|Title|Author(s)|
-|Jan2011|Apprenticeship Patterns|Hoover & Oshineye|
+<table>
+	<tr>
+		<td>Date Completed</td>
+		<td>Title</td>
+		<td>Author(s)</td>
+	</tr>
+	<tr>
+		<td>Jan2011</td>
+		<td>Apprenticeship Patterns</td>
+		<td>Hoover & Oshineye</td>
+</table>
 
