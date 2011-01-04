@@ -7,7 +7,7 @@ Inspired by "Apprenticeship Patterns" by Dave Hoover and Ade Oshineye
 Priority Queue
 ==
 
-<table>
+<table border = "1">
 	<tr>
 		<td>Target Date</td>
 		<td>Title</td>
@@ -22,7 +22,7 @@ Priority Queue
 Completed
 ==
 
-<table>
+<table border = "1">
 	<tr>
 		<td>Date Completed</td>
 		<td>Title</td>
