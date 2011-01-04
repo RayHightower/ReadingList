@@ -7,6 +7,8 @@ Inspired by "Apprenticeship Patterns" by Dave Hoover and Ade Oshineye
 Priority Queue
 ==
 
+Titles will shift up & down within this queue according to priority.
+
 <table border = "1">
 	<tr>
 		<td>Target Date</td>
@@ -17,6 +19,12 @@ Priority Queue
 		<td>&nbsp;</td>
 		<td>The Rails 3 Way</td>
 		<td>Fernandez</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>Start With Why</td>
+		<td>Sinek</td>
+	</tr>
 </table>
 
 Completed
@@ -32,5 +40,6 @@ Completed
 		<td>Jan2011</td>
 		<td>Apprenticeship Patterns</td>
 		<td>Hoover & Oshineye</td>
+	</tr>
 </table>
 
