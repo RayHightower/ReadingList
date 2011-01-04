@@ -1,0 +1,19 @@
+Reading List
+==
+
+Inspired by "Apprenticeship Patterns" by Dave Hoover and Ade Oshineye
+
+
+Priority Queue
+==
+
+|Target Date|Title|Author(s)|
+||The Rails 3 Way|Fernandez|
+
+
+Completed
+==
+
+|Date|Title|Author(s)|
+|Jan2011|Apprenticeship Patterns|Hoover & Oshineye|
+
