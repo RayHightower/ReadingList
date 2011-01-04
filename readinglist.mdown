@@ -75,7 +75,7 @@ Completed
 		<td>Jan2011</td>
 		<td>Apprenticeship Patterns</td>
 		<td>Hoover & Oshineye</td>
-		<td> </td>
+		<td>Reviewed at [ChicagoRuby Book Reviews](http://chicagoruby.org/book-reviews/2011/01/04/apprenticeship-patterns/) </td>
 	</tr>
 </table>
 
