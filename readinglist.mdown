@@ -7,7 +7,7 @@ Inspired by "Apprenticeship Patterns" by Dave Hoover and Ade Oshineye
 Priority Queue
 ==
 
-Titles will shift up & down within this queue according to priority.
+Titles will shift up & down within this queue according to priority. I'm reading some of these for the first time, while other titles are so critical that I feel the need to re-read them.
 
 <table border = "1">
 	<tr>
@@ -50,7 +50,16 @@ Titles will shift up & down within this queue according to priority.
 		<td>The Gifted Boss</td>
 		<td>Dauten</td>
 	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>Business Model Generation</td>
+		<td>Osterwalder & Pigneur</td>
+	</tr>
 </table>
+
+
+
+
 
 Completed
 ==
@@ -59,12 +68,14 @@ Completed
 	<tr>
 		<td>Date Completed</td>
 		<td>Title</td>
-		<td>Author(s)</td>
+		<td>Author(s)</td>		
+		<td>Comments</td>
 	</tr>
 	<tr>
 		<td>Jan2011</td>
 		<td>Apprenticeship Patterns</td>
 		<td>Hoover & Oshineye</td>
+		<td>Reviewed at [ChicagoRuby.org]() and at [WisdomGroup.com]()</td>
 	</tr>
 </table>
 
