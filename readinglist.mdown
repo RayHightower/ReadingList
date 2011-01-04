@@ -25,6 +25,16 @@ Titles will shift up & down within this queue according to priority.
 		<td>Start With Why</td>
 		<td>Sinek</td>
 	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>The RSpec Book</td>
+		<td>Chelimsky</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>AWDWR3</td>
+		<td>Ruby, Thomas, Hansson</td>
+	</tr>
 </table>
 
 Completed
