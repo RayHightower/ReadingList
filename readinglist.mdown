@@ -27,6 +27,11 @@ Titles will shift up & down within this queue according to priority.
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
+		<td>The Four Steps to the Epiphany</td>
+		<td>Blank</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
 		<td>The RSpec Book</td>
 		<td>Chelimsky</td>
 	</tr>
@@ -34,6 +39,16 @@ Titles will shift up & down within this queue according to priority.
 		<td>&nbsp;</td>
 		<td>AWDWR3</td>
 		<td>Ruby, Thomas, Hansson</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>Crossing the Chasm</td>
+		<td>Moore</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>The Gifted Boss</td>
+		<td>Dauten</td>
 	</tr>
 </table>
 
