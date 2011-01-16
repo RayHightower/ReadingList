@@ -77,5 +77,11 @@ Completed
 		<td>Hoover & Oshineye</td>
 		<td><a href="http://chicagoruby.org/book-reviews/2011/01/04/apprenticeship-patterns/">ChicagoRuby Book Review</a></td>
 	</tr>
+	<tr>
+		<td>16Jan2011</td>
+		<td>Start With Why</td>
+		<td>Simon Sinek</td>
+		<td>Given to me by <a href="http://www.linkedin.com/pub/nick-arvis/2/330/52">Nick Arvis</a>. I finished the book before I had a chance to add it to the priority queue. Engaging & inspirational.</td>
+	</tr>
 </table>
 
