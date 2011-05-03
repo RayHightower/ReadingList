@@ -82,7 +82,7 @@ Completed
 		<td>02May2011</td>
 		<td>The Four Steps to the Epiphany</td>
 		<td>Blank</td>
-		<td>Very useful. Turn this into a presentation for <a href="http://www.wisdomgroup.com/blog/four_steps_five_minutes/">Ignite Chicago</a>.</td>
+		<td>Very useful. Turned this into a presentation for <a href="http://www.wisdomgroup.com/blog/four_steps_five_minutes/">Ignite Chicago</a>.</td>
 	</tr>
 </table>
 
