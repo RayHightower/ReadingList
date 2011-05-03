@@ -26,11 +26,6 @@ Titles will shift up & down within this queue according to priority. I'm reading
 		<td>Fernandez</td>
 	</tr>
 	<tr>
-		<td>28Feb2011</td>
-		<td>The Four Steps to the Epiphany</td>
-		<td>Blank</td>
-	</tr>
-	<tr>
 		<td>&nbsp;</td>
 		<td>The RSpec Book</td>
 		<td>Chelimsky</td>
@@ -82,6 +77,12 @@ Completed
 		<td>Start With Why</td>
 		<td>Simon Sinek</td>
 		<td>Engaging & inspirational. The Golden Circle will influence my business planning and the way I communicate with colleagues & clients.</td>
+	</tr>
+	<tr>
+		<td>02May2011</td>
+		<td>The Four Steps to the Epiphany</td>
+		<td>Blank</td>
+		<td>Very useful. Turn this into a presentation for <a href="http://www.wisdomgroup.com/blog/four_steps_five_minutes/">Ignite Chicago</a>.</td>
 	</tr>
 </table>
 
