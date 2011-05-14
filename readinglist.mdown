@@ -81,13 +81,13 @@ Completed
 	<tr>
 		<td>02May2011</td>
 		<td>The Four Steps to the Epiphany</td>
-		<td>Blank</td>
+		<td>Steve Blank</td>
 		<td>Very useful. Turned this into a presentation for <a href="http://www.wisdomgroup.com/blog/four_steps_five_minutes/">Ignite Chicago</a>.</td>
 	</tr>
 	<tr>
 		<td>13May2011</td>
 		<td>HTML5 for Web Designers</td>
-		<td>Keith</td>
+		<td>Jeremy Keith</td>
 		<td>Brief & useful for developers too. I want to understand obstacles faced by designers, not become one! "Paving the cowpaths" is a geat idea.</td>
   </tr>
 /table>
