@@ -26,7 +26,7 @@ Titles will shift up & down within this queue according to priority. I'm reading
 		<td>Fernandez</td>
 	</tr>
 	<tr>
-		<td>06Jun2011</td>
+		<td>&nbsp;</td>
 		<td>Business Model Generation</td>
 		<td>Osterwalder & Pigneur</td>
 	</tr>
