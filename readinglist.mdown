@@ -16,12 +16,12 @@ Titles will shift up & down within this queue according to priority. I'm reading
 		<td>Author(s)</td>
 	</tr>
 	<tr>
-		<td>30May2011</td>
+		<td>15Jul2011</td>
 		<td>Ruby on Rails 3 Tutorial</td>
 		<td>Hartl</td>
 	</tr>
 	<tr>
-		<td>15Jun2011</td>
+		<td>15Jul2011</td>
 		<td>The Rails 3 Way</td>
 		<td>Fernandez</td>
 	</tr>
