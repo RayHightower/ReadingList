@@ -21,7 +21,7 @@ Titles will shift up & down within this queue according to priority. I'm reading
 		<td>Hartl</td>
 	</tr>
 	<tr>
-		<td>15Jul2011</td>
+		<td>31Jul2011</td>
 		<td>The Rails 3 Way</td>
 		<td>Fernandez</td>
 	</tr>
