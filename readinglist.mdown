@@ -90,5 +90,5 @@ Completed
 		<td>Jeremy Keith</td>
 		<td>Brief & useful for developers too. I want to understand obstacles faced by designers, not become one! "Paving the cowpaths" is a geat idea.</td>
   </tr>
-/table>
+</table>
 
