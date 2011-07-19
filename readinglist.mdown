@@ -22,13 +22,18 @@ Titles will shift up & down within this queue according to priority. I'm reading
 	</tr>
 	<tr>
 		<td>31Jul2011</td>
+		<td>Business Model Generation</td>
+		<td>Osterwalder & Pigneur</td>
+	</tr>
+	<tr>
+		<td>15Aug2011</td>
 		<td>The Rails 3 Way</td>
 		<td>Fernandez</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
-		<td>Business Model Generation</td>
-		<td>Osterwalder & Pigneur</td>
+		<td>Rails Test Prescription</td>
+		<td>Rappin</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
