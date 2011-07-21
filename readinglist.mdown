@@ -97,5 +97,5 @@ Completed
     <td>Very effective overview of Rails 3 with solid examples. Intros
 TDD & Git as well.
 	</tr>
-	/table>
+	</table>
 
