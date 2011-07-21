@@ -15,12 +15,7 @@ Titles will shift up & down within this queue according to priority. I'm reading
 		<td>Title</td>
 		<td>Author(s)</td>
 	</tr>
-	<tr>
-		<td>15Jul2011</td>
-		<td>Ruby on Rails 3 Tutorial</td>
-		<td>Hartl</td>
-	</tr>
-	<tr>
+<tr>
 		<td>31Jul2011</td>
 		<td>Business Model Generation</td>
 		<td>Osterwalder & Pigneur</td>
@@ -95,5 +90,12 @@ Completed
 		<td>Jeremy Keith</td>
 		<td>Brief & useful for developers too. I want to understand obstacles faced by designers, not become one! "Paving the cowpaths" is a geat idea.</td>
   </tr>
-</table>
+	<tr>
+		<td>20Jul2011</td>
+		<td>Ruby on Rails 3 Tutorial</td>
+		<td>Hartl</td>
+    <td>Very effective overview of Rails 3 with solid examples. Intros
+TDD & Git as well.
+	</tr>
+	/table>
 
