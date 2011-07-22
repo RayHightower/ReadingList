@@ -50,6 +50,11 @@ Titles will shift up & down within this queue according to priority. I'm reading
 		<td>The Gifted Boss</td>
 		<td>Dauten</td>
 	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>Database Design for Mere Mortals</td>
+		<td>Hernandez</td>
+	</tr>
 </table>
 
 
