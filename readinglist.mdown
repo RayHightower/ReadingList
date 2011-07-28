@@ -100,7 +100,8 @@ Completed
 		<td>Ruby on Rails 3 Tutorial</td>
 		<td>Hartl</td>
     <td>Very effective overview of Rails 3 with solid examples. Intros
-TDD & Git as well.
+TDD & Git as well. Wrote a <a href="http://chicagoruby.org">book
+review</a> for ChicagoRuby.
 	</tr>
 	</table>
 
