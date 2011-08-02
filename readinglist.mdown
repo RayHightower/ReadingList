@@ -15,11 +15,6 @@ Titles will shift up & down within this queue according to priority. I'm reading
 		<td>Title</td>
 		<td>Author(s)</td>
 	</tr>
-<tr>
-		<td>06Aug2011</td>
-		<td>Business Model Generation</td>
-		<td>Osterwalder & Pigneur</td>
-	</tr>
 	<tr>
 		<td>15Aug2011</td>
 		<td>The Rails 3 Way</td>
@@ -34,6 +29,11 @@ Titles will shift up & down within this queue according to priority. I'm reading
 		<td>15Sep2011</td>
 		<td>The RSpec Book</td>
 		<td>Chelimsky</td>
+	</tr>
+  <tr>
+		<td>&nbsp;</td>
+		<td>Business Model Generation</td>
+		<td>Osterwalder & Pigneur</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
